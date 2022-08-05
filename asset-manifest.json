@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectzora/static/css/main.f15b0d05.css",
-    "main.js": "/projectzora/static/js/main.35d19fa1.js",
+    "main.js": "/projectzora/static/js/main.621d0f90.js",
     "static/media/foto1.png": "/projectzora/static/media/foto1.83caf713625339e7e667.png",
     "static/media/2.png": "/projectzora/static/media/2.f1af47143baf5454efd4.png",
     "static/media/foto2.png": "/projectzora/static/media/foto2.1e844bef2efe0c559574.png",
@@ -18,10 +18,10 @@
     "static/media/twitter.svg": "/projectzora/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "index.html": "/projectzora/index.html",
     "main.f15b0d05.css.map": "/projectzora/static/css/main.f15b0d05.css.map",
-    "main.35d19fa1.js.map": "/projectzora/static/js/main.35d19fa1.js.map"
+    "main.621d0f90.js.map": "/projectzora/static/js/main.621d0f90.js.map"
   },
   "entrypoints": [
     "static/css/main.f15b0d05.css",
-    "static/js/main.35d19fa1.js"
+    "static/js/main.621d0f90.js"
   ]
 }
