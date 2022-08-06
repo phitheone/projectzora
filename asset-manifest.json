@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.174d4363.css",
-    "main.js": "/static/js/main.9b37c50f.js",
+    "main.css": "/static/css/main.92458886.css",
+    "main.js": "/static/js/main.5aebd70f.js",
+    "static/media/zora_master.mp3": "/static/media/zora_master.8111b1d1a5434fd5f358.mp3",
     "static/media/10.png": "/static/media/10.1aec5f8f01066f9437a5.png",
     "static/media/4.png": "/static/media/4.f89e64260264a40fb3bb.png",
     "static/media/1.png": "/static/media/1.c1a7d1b2144eb315ccd7.png",
@@ -15,6 +16,7 @@
     "static/media/fondo1.png": "/static/media/fondo1.e646748fe0867cbd3f25.png",
     "static/media/flecha.png": "/static/media/flecha.9ab8a3b9fb29f66b9652.png",
     "static/media/close-button.png": "/static/media/close-button.56e46144887f8ef6200d.png",
+    "static/media/background2.png": "/static/media/background2.fa7541cb7d93c946ed64.png",
     "static/media/bn.png": "/static/media/bn.4f48c35e4644292510c4.png",
     "static/media/8.png": "/static/media/8.63601a43e32cc7fc4109.png",
     "static/media/hamburger.png": "/static/media/hamburger.511aa91e1ff45153c5b1.png",
@@ -23,11 +25,11 @@
     "index.html": "/index.html",
     "static/media/discord.svg": "/static/media/discord.676092c0566392a62084ddab8ff36110.svg",
     "static/media/twitter.svg": "/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
-    "main.174d4363.css.map": "/static/css/main.174d4363.css.map",
-    "main.9b37c50f.js.map": "/static/js/main.9b37c50f.js.map"
+    "main.92458886.css.map": "/static/css/main.92458886.css.map",
+    "main.5aebd70f.js.map": "/static/js/main.5aebd70f.js.map"
   },
   "entrypoints": [
-    "static/css/main.174d4363.css",
-    "static/js/main.9b37c50f.js"
+    "static/css/main.92458886.css",
+    "static/js/main.5aebd70f.js"
   ]
 }
